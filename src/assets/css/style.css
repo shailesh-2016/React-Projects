@@ -1,0 +1,13 @@
+body{
+    background-color: aliceblue;
+}
+form{
+    background-color: white;
+    border-radius: 10px;
+}
+.mt-4 input{
+    height: 40px;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 2px grey;
+}
